@@ -1,19 +1,13 @@
 # Summary
 * [前言](README.md)
-
 * [js算法]()
-
-  * [includes使用](sf/20181224.md)
-
+  * [includes使用](js算法/20181224.md)
+  * [构造函数返回案例](js算法/20181226.md)
 * [css特效经典案例]()
-
   * [画出小于1px的线](css效果经典案例/20181225.md)
-
 * [前端框架知识点]()
-
 * [HTML相关]()
-
 * [主题分享]()
-
-* [其他]()
-
+  * [你不知道的this指向](主题分享/分享文档/你不知道的this指向.pptx)
+* [其他（内部访问）]()
+  * [编码规范](https://wiki.bestpay.com.cn/pages/viewpage.action?pageId=25265836)
