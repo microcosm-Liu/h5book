@@ -12,6 +12,7 @@
   * [html请求过程](HTML相关/天龙八步.md)
   * [http请求方法和状态码](HTML相关/20190114.md)
   * [Request Head 和 Response Head](HTML相关/HTTP Head.md)
+  * [http缓存规则](HTML相关/HTTP缓存规则.md)
 * [前端框架相关]()
 * [主题分享]()
   * [你不知道的this指向](主题分享/分享文档/你不知道的this指向.pptx)
